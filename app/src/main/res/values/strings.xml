@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="btu1">1</string>
+    <string name="btu2">2</string>
+    <string name="btu3">3</string>
+    <string name="btuplus">+</string>
+    <string name="btu4">4</string>
+    <string name="btu5">5</string>
+    <string name="btu6">6</string>
+    <string name="btuminus">-</string>
+    <string name="btu7">7</string>
+    <string name="btu8">8</string>
+    <string name="btu9">9</string>
+    <string name="btumul">*</string>
+    <string name="btuC">C</string>
+    <string name="btu0">0</string>
+    <string name="btuequal">=</string>
+    <string name="btudiv">/</string>
+    <string name="advance_with_history">Advance-With History</string>
+</resources>
